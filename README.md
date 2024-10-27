@@ -1,6 +1,7 @@
 # Mobile Number Lookup
 
 A simple web application that allows users to look up details about a mobile number. The application provides information such as the country, location, carrier, and line type associated with the entered mobile number.
+This is my first website or webapp which is purely made by using chatGPT .
 
 ## Features
 
